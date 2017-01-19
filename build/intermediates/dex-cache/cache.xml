@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maxsg\Desktop\lonelyTwitter-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="06e7b3f6f6b23294ece9a94021ba50f5ee68f969">
+        <dex dex="C:\Users\Maxsg\Desktop\lonelyTwitter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4d3961a0e6c5695def09770e795bde117534c95b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maxsg\Desktop\lonelyTwitter-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="542d50628012678ade9aeec13635cc52255642ff">
+        <dex dex="C:\Users\Maxsg\Desktop\lonelyTwitter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_af1c49f9d84d5c36ef4c75b0815e388e0e67cef9\classes.dex" />
+    </item>
+
+</items>

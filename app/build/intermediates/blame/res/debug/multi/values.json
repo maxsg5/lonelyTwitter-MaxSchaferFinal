@@ -1,0 +1,112 @@
+[
+    {
+        "outputFile": "C:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "C:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 39,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 35,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "C:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 35,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 131,
+                    "endColumn": 35,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "C:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 35,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 50,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "C:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 39,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "C:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 46,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "C:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 37,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "C:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]

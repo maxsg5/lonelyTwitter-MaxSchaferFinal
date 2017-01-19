@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:layout_centerInParent="false"
+    android:baselineAligned="false">
+
+    <TextView
+        android:id="@+id/oldTweetsTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="My old tweets" />
+
+    <ListView
+        android:id="@+id/oldTweetsList"
+        android:layout_width="fill_parent"
+        android:layout_height="263dp"
+        android:layout_weight="1"
+        android:scrollbars="vertical" >
+
+    </ListView>
+
+    <TextView
+        android:id="@+id/hello"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+
+    <EditText
+        android:id="@+id/body"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="horizontal" />
+
+    <Button
+        android:text="Happy :)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:layout_marginLeft="0dp" />
+
+    <Button
+        android:text="Meh :|"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button4" />
+
+    <Button
+        android:text="Sad :("
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button3" />
+
+    <Button
+        android:id="@+id/clear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/clear" />
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/save" />
+
+</LinearLayout>

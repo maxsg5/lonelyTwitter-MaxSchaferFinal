@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Jan 18 20:05:38 MST 2017
+1.base=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.file=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list_item.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.base=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\res\\resources-debug.ap_

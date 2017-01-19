@@ -1,0 +1,7 @@
+#Wed Jan 18 20:05:40 MST 2017
+base.0=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4d3961a0e6c5695def09770e795bde117534c95b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_af1c49f9d84d5c36ef4c75b0815e388e0e67cef9\\classes.dex
+base.1=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_af1c49f9d84d5c36ef4c75b0815e388e0e67cef9
+file.0=C\:\\Users\\Maxsg\\Desktop\\lonelyTwitter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4d3961a0e6c5695def09770e795bde117534c95b\\classes.dex

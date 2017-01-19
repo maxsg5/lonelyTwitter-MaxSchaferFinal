@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Happy">Happy</string>
+    <string name="Meh">Meh</string>
+    <string name="Sad">Sad</string>
+    <string name="app_name">LonelyTwitter</string>
+    <string name="clear">Clear</string>
+    <string name="hello">Joshua said:</string>
+    <string name="save">Save</string>
+</resources>
